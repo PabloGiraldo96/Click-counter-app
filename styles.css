@@ -1,0 +1,62 @@
+body{
+margin: 25px;
+margin-left: 45px ;
+margin-right: 45px ;
+margin-left: 80px;
+background-color: #D8C0CD;
+display: flex;
+justify-content: center;
+position: relative;
+ top: 50px;
+}
+
+.square {
+display: flex;
+justify-content: space-between;
+  height: 700px;
+  width: 975px;
+  backdrop-filter: blur(6px); background-color: #DCD6F7; border-radius: 35px; box-shadow: 35px 35px 68px 0px rgba(20, 149, 204, 0.5), inset -11px -11px 16px 0px rgba(20, 149, 204, 0.6), inset 0px 11px 28px 0px rgb(255, 255, 255);
+  display:flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h3 {
+  font-family: 'Lilita One', cursive;
+  font-size: 3rem;
+  position: relative;
+  left: -50px;
+letter-spacing: 6px;
+}
+
+button {
+display: flex;
+ justify-content: space-around;
+  align-content: flex-start;
+	background-color: #D8C0CD;
+  width: 180px;
+  font-family: 'Lilita One', cursive;
+  border-radius: 66px;
+  font-size: 2rem;
+  letter-spacing: 3px;
+}
+
+.btn2 {
+position: relative;
+top: 30px;
+}
+
+.btn3 {
+position: relative;
+top: 60px;
+}
+
+.label {
+  font-size: 200px;
+	color:rgb(54, 23, 83);
+  position: relative;
+  top: -200px;
+  left: -100px;
+
+
+}
