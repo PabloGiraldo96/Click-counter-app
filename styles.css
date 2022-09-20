@@ -64,3 +64,15 @@ top: 60px;
 		font-size:1.5rem;
 	}
 }
+
+@media(min-height:400px){
+	.square{
+		font-size:1.5rem;
+	}
+}
+
+@media(min-width:600px){
+	button{
+		font-size:1.5rem;
+	}
+}
