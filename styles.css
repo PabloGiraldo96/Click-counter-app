@@ -53,10 +53,14 @@ top: 60px;
 
 .label {
   font-size: 200px;
-	color:rgb(54, 23, 83);
+  color:rgb(54, 23, 83);
   position: relative;
   top: -200px;
   left: -100px;
+}
 
-
+@media(min-width:600px){
+	.square{
+		font-size:1.5rem;
+	}
 }
